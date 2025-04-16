@@ -32,6 +32,8 @@ Here is a visualization of the ten forage species from the benchmark dataset.
 
 <img src="images/benchmark.jpg" width="100%">
 
+You can download the dataset from here: [Baidu Netdisk](https://pan.baidu.com/s/10HiJNUz5RX8olnOiJzJyUA?pwd=4ihu)
+
 Date: October 20, 2024
 
 ## Removed Cases:
